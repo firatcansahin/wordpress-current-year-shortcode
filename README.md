@@ -1,5 +1,5 @@
-# wordpress-current-year-shortcode
-To show the current year on the screen in Wordpress.
+# To show the current year on the screen in Wordpress.
+It can be used for the date in the copyright area, especially for websites designed with Wordpress.
 
 # For the functions.php file:
 
